@@ -1,22 +1,65 @@
 (function () {
-    const fileInput = document.querySelector('input[type="file"]');
-    const container = document.querySelector('.meta');
-    console.dir(fileInput);
+    attachHandlerForImage();
+    attachHandlerForText();
+    window.files = [];
+    attachUploadHandler();
+}());
+
+function attachHandlerForImage() {
+    const fileInput = document.querySelector('input[accept="image/*"]');
+    const container = document.querySelector('.images');
 
     fileInput.addEventListener('change', () => {
         const file = fileInput.files[0];
         console.log(file);
         const img = new Image();
-        img.src = 'data:image/gif;base64,R0lGODlhEAAQAMQAAORHHOVSKudfOulrSOp3WOyDZu6QdvCchPGolfO0o/XBs/fNwfjZ0frl3/zy7////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAkAABAALAAAAAAQABAAAAVVICSOZGlCQAosJ6mu7fiyZeKqNKToQGDsM8hBADgUXoGAiqhSvp5QAnQKGIgUhwFUYLCVDFCrKUE1lBavAViFIDlTImbKC5Gm2hB0SlBCBMQiB0UjIQA7';
-        container.innerHTML = '';
+        // Read the image from the file as a data uri
+        const reader = new FileReader();
+        reader.addEventListener('load', function () {
+            console.log(reader.result);
+            img.src = reader.result;
+        });
+
+        reader.readAsDataURL(file);
+
         container.appendChild(img);
+
+        // Required for the upload
+        window.files.push(file);
     });
+}
 
-    const printFileMeta = ({name, lastModified, size, type}) => `<div>
-    <div>${name}</div>
-    <div>${size}</div>
-    <div>${lastModified}</div>
-    <div>${type}</div>
-</div>`;
+function attachHandlerForText() {
+    const fileInput = document.querySelector('input[accept="text/plain"]');
+    const container = document.querySelector('pre');
 
-}());
+    fileInput.addEventListener('change', () => {
+        const file = fileInput.files[0];
+        console.log(file);
+        // Read the image from the file as a data uri
+        const reader = new FileReader();
+
+        reader.addEventListener('load', function () {
+            console.log(reader.result);
+            container.innerHTML = reader.result;
+        });
+
+        reader.readAsText(file);
+
+        // Required for the upload
+        window.files.push(file);
+    });
+}
+
+function attachUploadHandler() {
+    document.querySelector('.upload-button').addEventListener('click', () => {
+        const formData = new FormData();
+        console.log(window.files);
+        window.files.forEach((file, index) => formData.append(file.name, file));
+        console.log(formData);
+
+        // use this formData with axios or fetch
+        // Axios - https://stackoverflow.com/questions/47630163/axios-post-request-to-send-form-data
+        // Fetch - https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch#Uploading_a_file
+    });
+}

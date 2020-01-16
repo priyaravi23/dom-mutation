@@ -16,6 +16,12 @@ Reacting to DOM changes with MutationObserver API
 
 ![](images/image-load.png)
 
+## Image uploads with Cloudinary
+- http://getcontenttools.com/tutorials/image-uploads-with-cloudinary
+- https://cloudinary.com/documentation/image_upload_api_reference
+
+![](images/cloudinary-upload.png)
+
 ## Mutation Observer API
 - Detect When a Node is Inserted
 - Detect When a Node is Removed

@@ -20,12 +20,12 @@ hr {
 }
 
 .fileUpload {
-    background-image: url("../../images/git.png");
+    background-image: url("../../images/got.jpg");
     background-repeat: no-repeat;
     background-size: 2000px 700px;
     padding: 25px;
     margin: 0 auto;
-    opacity: 0.5;
+    opacity: 0.75;
 }
 
 div#upload {

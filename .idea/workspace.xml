@@ -2,19 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f2ed48b-b07d-4ea9-a804-cab7a40fb06e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/file-api/image-upload/image-upload.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file-api/image-upload/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file-api/image-upload/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/cloudinary-upload.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/got.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file-api/load-example/file-load.html" beforeDir="false" afterPath="$PROJECT_DIR$/file-api/file-load/file-load.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file-api/load-example/file-load.js" beforeDir="false" afterPath="$PROJECT_DIR$/file-api/file-load/file-load.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file-api/load-example/image-load.html" beforeDir="false" afterPath="$PROJECT_DIR$/file-api/file-load/image-load.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file-api/load-example/image-load.js" beforeDir="false" afterPath="$PROJECT_DIR$/file-api/file-load/image-load.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file-api/multi-image/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/file-api/image-preview/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file-api/multi-image/multi-image.js" beforeDir="false" afterPath="$PROJECT_DIR$/file-api/image-preview/image-preview.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file-api/multi-image/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/file-api/image-preview/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/file-api/image-preview/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/file-api/image-preview/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/git.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/image-load.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/image-load.png" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -27,74 +19,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/file-api/image-preview/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+            <state relative-caret-position="218">
+              <caret line="11" column="26" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/file-api/image-upload/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="18" column="20" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.MD" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.MD">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="420">
-                <caret line="20" column="65" selection-start-line="20" selection-start-column="65" selection-end-line="20" selection-end-column="65" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/file-api/image-upload/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="29" column="8" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="image-upload.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/file-api/image-upload/image-upload.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/file-api/image-preview/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-327">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="image-preview.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/file-api/image-preview/image-preview.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="read-text.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/file-api/read-text/read-text.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+            <state relative-caret-position="383">
+              <caret line="34" column="20" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -108,6 +47,7 @@
       <find>li</find>
       <find>note</find>
       <find>gallery</find>
+      <find>fileUpload</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -135,9 +75,12 @@
         <option value="$PROJECT_DIR$/drag-and-drop/style.css" />
         <option value="$PROJECT_DIR$/drag-and-drop/drag-and-drop.js" />
         <option value="$PROJECT_DIR$/drag-and-drop/index.html" />
-        <option value="$PROJECT_DIR$/README.MD" />
         <option value="$PROJECT_DIR$/file-api/file-upload/file-upload.js" />
         <option value="$PROJECT_DIR$/file-api/image-upload/image-upload.js" />
+        <option value="$PROJECT_DIR$/fetch-api/index.html" />
+        <option value="$PROJECT_DIR$/README.MD" />
+        <option value="$PROJECT_DIR$/fetch-api/fetch.js" />
+        <option value="$PROJECT_DIR$/file-api/image-preview/style.css" />
       </list>
     </option>
   </component>
@@ -179,19 +122,13 @@
               <item name="dom-mutation" type="b2602c69:ProjectViewProjectNode" />
               <item name="dom-mutation" type="462c0819:PsiDirectoryNode" />
               <item name="file-api" type="462c0819:PsiDirectoryNode" />
-              <item name="file-load" type="462c0819:PsiDirectoryNode" />
+              <item name="image-preview" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="dom-mutation" type="b2602c69:ProjectViewProjectNode" />
               <item name="dom-mutation" type="462c0819:PsiDirectoryNode" />
               <item name="file-api" type="462c0819:PsiDirectoryNode" />
               <item name="image-upload" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dom-mutation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dom-mutation" type="462c0819:PsiDirectoryNode" />
-              <item name="file-api" type="462c0819:PsiDirectoryNode" />
-              <item name="read-text" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="dom-mutation" type="b2602c69:ProjectViewProjectNode" />
@@ -213,11 +150,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/file-api" />
       <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$/fetch-api/fetch-post" />
+      <recent name="$PROJECT_DIR$/fetch-api" />
+      <recent name="$PROJECT_DIR$/file-api" />
       <recent name="$PROJECT_DIR$/file-api/multi-image" />
-      <recent name="$PROJECT_DIR$/file-api/load-example" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -243,12 +180,15 @@
       <option name="presentableId" value="Default" />
       <updated>1579046530138</updated>
       <workItem from="1579046531817" duration="3050000" />
-      <workItem from="1579120441988" duration="12798000" />
+      <workItem from="1579120441988" duration="13562000" />
+      <workItem from="1579203908219" duration="6536000" />
+      <workItem from="1579316376100" duration="598000" />
+      <workItem from="1579494546866" duration="1455000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15848000" />
+    <option name="totallyTimeSpent" value="25201000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="23" width="1226" height="777" extended-state="0" />
@@ -257,11 +197,11 @@
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959217" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -280,6 +220,20 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/file-api/file-load/file-info.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file-api/file-load/image-load.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1218">
+          <caret line="58" column="30" lean-forward="true" selection-start-line="58" selection-start-column="30" selection-end-line="58" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/mutation-observer/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -325,38 +279,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/drag-and-drop/drag-drop.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="84" column="42" selection-start-line="84" selection-start-column="42" selection-end-line="84" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/file-api/file-load/file-load.html">
+    <entry file="file://$PROJECT_DIR$/drag-and-drop/drag-drop.js" />
+    <entry file="file://$PROJECT_DIR$/file-api/file-load/file-info.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
           <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/file-api/file-load/file-load.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="19" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/file-api/file-load/image-load.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/file-api/file-load/image-load.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="36" column="31" lean-forward="true" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -374,18 +301,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/image-load.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/file-api/read-text/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="966">
           <caret line="46" column="1" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/vacay.jpg">
-      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/file-api/read-text/read-text.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -394,53 +315,91 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/file-api/image-preview/index.html">
+    <entry file="file://$PROJECT_DIR$/file-api/image-upload/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+        <state relative-caret-position="609">
+          <caret line="29" column="8" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/file-api/image-preview/style.css">
+    <entry file="file://$PROJECT_DIR$/file-api/file-load/image-load.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-327">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="506">
+          <caret line="36" column="7" lean-forward="true" selection-start-line="36" selection-start-column="7" selection-end-line="36" selection-end-column="7" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file-api/file-load/image-load.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="602">
+          <caret line="58" column="30" selection-start-line="58" selection-start-column="30" selection-end-line="58" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file-api/file-load/file-info.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fetch-api/fetch-post/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/git.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/README.MD">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="420">
-            <caret line="20" column="65" selection-start-line="20" selection-start-column="65" selection-end-line="20" selection-end-column="65" />
+          <first_editor relative-caret-position="253">
+            <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/file-api/image-preview/image-preview.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/file-api/image-upload/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="29" column="8" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/file-api/image-upload/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="18" column="20" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="20" />
+        <state relative-caret-position="399">
+          <caret line="19" column="6" lean-forward="true" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file-api/image-preview/image-preview.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/file-api/image-upload/image-upload.js">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1596">
+          <caret line="76" column="19" selection-start-line="76" selection-start-column="9" selection-end-line="76" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/image-load.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file-api/image-preview/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file-api/image-preview/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="34" column="20" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
